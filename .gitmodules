@@ -4,3 +4,6 @@
 [submodule "Python/flappy-bird-sub"]
 	path = Python/flappy-bird-sub
 	url = git@github.com:kdraganik/flappy-bird.git
+[submodule "JS/weather-app-sub"]
+	path = JS/weather-app-sub
+	url = git@github.com:kdraganik/weather-app.git
