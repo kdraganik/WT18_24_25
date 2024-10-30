@@ -1,0 +1,3 @@
+[submodule "JS/news-app-sub"]
+	path = JS/news-app-sub
+	url = git@github.com:kdraganik/news-app.git
