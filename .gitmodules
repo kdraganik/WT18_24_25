@@ -1,3 +1,6 @@
 [submodule "JS/news-app-sub"]
 	path = JS/news-app-sub
 	url = git@github.com:kdraganik/news-app.git
+[submodule "Python/flappy-bird-sub"]
+	path = Python/flappy-bird-sub
+	url = git@github.com:kdraganik/flappy-bird.git
